@@ -1,0 +1,8 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl" на "/GS-"
+  main.c
+D:\СИ\task1\main.c(84,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\СИ\task1\main.c(85,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\СИ\task1\main.c(88,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\СИ\task1\main.c(99,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\СИ\task1\main.c(16): warning C4716: mp: должна возвращать значение
+  task1.vcxproj -> D:\СИ\task1\Debug\task1.exe

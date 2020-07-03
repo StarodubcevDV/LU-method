@@ -1,0 +1,2 @@
+D:\СИ\task1\Debug\task1.exe
+D:\СИ\task1\Debug\task1.pdb
